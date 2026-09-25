@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="DataForge.Api/DataForge.Api.csproj" />
+  <Project Path="DataForge.Application/DataForge.Application.csproj" />
+  <Project Path="DataForge.Domain/DataForge.Domain.csproj" />
+  <Project Path="DataForge.Infrastructure/DataForge.Infrastructure.csproj" />
+  <Project Path="DataForge.Tests/DataForge.Tests.csproj" />
+</Solution>
